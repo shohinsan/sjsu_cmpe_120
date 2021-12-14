@@ -1,6 +1,18 @@
-# sjsu_cmpe_120
-Introduction to computer organization and architecture, system buses, internal memory and external memory, input/output, central processing unit CPU, instruction sets, CPU structure and function, RISC, control unit. The purpose if this class is to understand Apple hardware, design, and develop production level iOS/MacOS applications
+| Members | [GitHub](https://github.com/shohinsan/sjsu_cs_151) |
+| ----------- | ----------- | ----------- |
+| Shohin Abdulkhamidov | [shohinsan](https://github.com/shohinsan) |
+| Spartak Gevorgyan | [artak10t](https://github.com/artak10t) | 
+| Vladislav Semenyutin | [skiffin_git](https://github.com/skiffin-git) |
 
+---
+
+- `Date:` August 26, 2021
+
+- `Problem Statement:` Understand Apple hardware, design, and develop production level iOS/MacOS applications.
+
+- `Activities:` Introduction to computer organization and architecture, system buses, internal memory and external memory, input/output, central processing unit CPU, instruction sets, CPU structure and function, RISC, control unit.
+
+---
 
 # Understanding of Apple ARM Architecture 
 
