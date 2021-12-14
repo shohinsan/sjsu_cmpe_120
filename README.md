@@ -1,11 +1,3 @@
-| Members | [GitHub](https://github.com/shohinsan/sjsu_cs_151) |
-| ----------- | ----------- | ----------- |
-| Shohin Abdulkhamidov | [shohinsan](https://github.com/shohinsan) |
-| Spartak Gevorgyan | [artak10t](https://github.com/artak10t) | 
-| Vladislav Semenyutin | [skiffin_git](https://github.com/skiffin-git) |
-
----
-
 - `Date:` August 26, 2021
 
 - `Problem Statement:` Understand Apple hardware, design, and develop production level iOS/MacOS applications.
