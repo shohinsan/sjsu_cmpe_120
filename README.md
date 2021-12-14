@@ -1,5 +1,5 @@
 # sjsu_cmpe_120
-Introduction to computer organization and architecture, system buses, internal memory and external memory, input/output, central processing unit CPU, instruction sets, CPU structure and function, RISC, control unit.
+Introduction to computer organization and architecture, system buses, internal memory and external memory, input/output, central processing unit CPU, instruction sets, CPU structure and function, RISC, control unit. The purpose if this class is to understand Apple hardware, design, and develop production level iOS/MacOS applications
 
 
 # Understanding of Apple ARM Architecture 
